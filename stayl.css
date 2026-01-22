@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 5000px;
+    background-color: white;
+}
+.header_box{
+    width: 90%;
+    height:40px;
+    margin-left: 50px;
+    padding: 35px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.header_box1{
+    width: 109px;
+    height: 19px;
+    margin-left: 550px;
+}
+.header_box2{
+    width:200px; 
+    height: 27px;
+    margin-left: -700PX;
+    display: flex;
+}
+.menu{
+    border-bottom:calc(none);
+    color: rgb(22, 20, 19);
+    font-size:19px;
+    margin-left:30px;
+} 
+.header_box3{
+    width: 361;
+    height: 40px;
+    padding: 2px 10px;
+    margin-left: 705px;
+    margin-top:4px;
+    display: flex;
+}
+.header_p{
+    margin-left:10px;
+    margin-top: 3px;
+}
+.header_img{
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 2px;
+    width: 15px;
+    height: 15px;
+}
+.header_box4 {
+    width: 150px;
+    height: 34px;
+    margin-left:40px;
+    padding:5px;
+    margin-top: -10px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+.hero{
+    width: 100%;
+    height: 675px;
+    margin-top: 15px;
+    background-image: url(/img.fayl/Gemini_Generated_Image_x4nnutx4nnutx4nn.png);
+    background-repeat: no-repeat;
+}
+.h1{
+    font-size: 45px;
+}
+.hero-content{
+    width: 600px;
+    height: 610px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.btn{
+    width: 130px;
+    height: 35px;
+    background-color: white;
+    text-align: center;
+    margin-left:-270px ;
+    margin-top: 190px;
+    border: 1px solid white; 
+    border-radius: 35px;
+    font-size: 13px;
+    color: black;
+}
+.section_img{
+    width: 50%;
+    height: 15px;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+.h1_grid{
+    margin-top: 55px;
+    font-size: 50px;
+    text-align: center;
+}
+.display_grid{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns:repeat(3,1fr) ;
+    grid-template-rows:repeat(2,1fr) ;
+}
+.grid-1{
+    width: 300px;
+    height: 335px;
+    margin-left: 110px;
+}
+.img_grid{
+    margin-top: 5px;
+    margin-left: 210px;
+}
+.h1-grid{
+    font-size: 15px;
+    margin-top: 2px;
+   text-align: center; 
+}
+.buttton_grid{
+    width: 110px;
+    height: 35px;
+    font-size: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.Banner{
+    width: 100%;
+    height: 665px;
+    margin-top: 45px;
+    background-image: url(/img.fayl/Gemini_Generated_Image_4t0xxm4t0xxm4t0x.png);
+    background-repeat: no-repeat;
+}
+.Banner1{
+    width: 1050px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Banner_h1{
+    width: 517px;
+    height: 120px;
+    font-size: 41px;
+    color: white;
+}
+.Banner_button{
+    width: 135px;
+    height: 40px;
+    font-size: 16px;
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    padding-bottom: 3px;
+    margin-left:-520px ;
+    margin-top: 170px;
+}
+.collections{
+    width: 1320px;
+    height: 525px;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+.collections_img{
+    width: 510px;
+    height: 515px;
+    background-image: url(/img.fayl/Skrinshot\ 2026-01-18\ 195923.png);
+    background-repeat: no-repeat;
+}
+.collections_img1{
+    width: 510px;
+    height: 515px;   
+    background-image: url(/img.fayl/Skrinshot\ 2026-01-18\ 195959.png);
+    background-repeat: no-repeat;
+}
+.collections_img2{
+    width: 1020px;
+    margin-left: 240px;
+}
+.collections_h1{
+    width: 634px;
+    height: 60px;
+    font-size: 44px;
+    margin-left: 540px;
+    margin-top:35px
+}
+.collections_p{
+    width: 328px;
+    height: 86px;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 420px;
+}
+.collections_p1{
+    width: 328px;
+    height: 86px;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 420px;
+}
+.Discount{
+    width:1320px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Discount_img{
+    width: 510px;
+    height: 500px;
+    margin-left: 100px;
+    background-image: url(/img.fayl/Skrinshot\ 2026-01-21\ 213431.png);
+    background-repeat: no-repeat;
+}
+.Discount_card{
+    width: 155px;
+    height:200px ;
+    margin-top: 294px;
+    margin-left: 190px;
+    background-color:rgb(247, 245, 245);
+    text-align: center;
+} 
+.Discount_card1{
+    margin-top: 12px;
+}
+.Discount_box{
+    margin-top:-30px ;
+    margin-left:20px;
+}
+#clock{
+    margin-top: 20px;
+    font-size: 75px;
+}
+.Discount_h3{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    font-size: 15px;
+    margin-left:-15px;
+}
+.Discounth3{
+    margin-left: 33px;
+}
+.Discount_button{
+    width: 125px;
+    height: 35px;
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    margin-top: 35px;
+}
