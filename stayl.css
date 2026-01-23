@@ -263,6 +263,37 @@
     border: 1px solid black;
     border-radius: 30px;
     background-color: black;
-    color: black;
+    color: white;
     margin-top: 35px;
+}
+.Reviews{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(255, 252, 244);
+    padding-left: 280px;
+    padding-top: 40px;
+}
+.Text_h1{
+    font-size: 35px;
+}
+.Text_h3{
+    margin-top: 35px;
+    margin-bottom:10px ;
+}
+.Text_h2{
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+.Text_img{
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.Text_h4{
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.Text_p{
+    margin-top: 27px;
+    margin-left: -110px;
 }
