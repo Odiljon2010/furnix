@@ -5,7 +5,7 @@
 }
 .header{
     width: 100%;
-    height: 5000px;
+    height: 5400px;
     background-color: white;
 }
 .header_box{
@@ -318,4 +318,21 @@
 }
 .insta_img2{
     margin-left: 30px;
+}
+.Features{
+    width: 114%;
+    height: 100px;
+    border: 3px solid rgb(221, 212, 212);
+    display: flex;
+    margin-top: 40px;
+    margin-left:-189px;
+}
+.Features_h2{
+    font-size: 28px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.Features_img{
+    margin-left: 100px;
+    margin-bottom: -55px;
 }
