@@ -336,3 +336,6 @@
     margin-left: 100px;
     margin-bottom: -55px;
 }
+.footer{
+    display: flex;
+}
