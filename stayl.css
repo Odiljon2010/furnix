@@ -347,6 +347,16 @@
     color: white;
 }
 .footer{
-    margin-left: 200px;
+    margin-left: 100px;
     padding-top: 100px;
+}
+.footer_2{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.footer_3{
+    margin-right: 80px;
+}
+.ahref{
+    color: rgb(209, 209, 209);
 }
