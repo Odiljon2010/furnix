@@ -339,3 +339,14 @@
 .footer{
     display: flex;
 }
+.footer_header{
+    width: 1520px;
+    height: 550px;
+    margin-left:-189px ;
+    background-color: black;
+    color: white;
+}
+.footer{
+    margin-left: 200px;
+    padding-top: 100px;
+}
