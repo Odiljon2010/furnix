@@ -343,7 +343,7 @@
     width: 1520px;
     height: 550px;
     margin-left:-189px ;
-    background-color: black;
+    background-color: rgb(23, 23, 23);
     color: white;
 }
 .footer{
@@ -366,11 +366,12 @@
 }
 .footer_input{
     width: 200px;
-    height: 35px;
-    border: 2px solid aliceblue;
+    height: 38px;
+    border: 2px solid rgb(70, 70, 70);
     border-radius: 30px;
-    background-color: black;
+    background-color: rgb(21, 21, 21);
     color: white;
+    padding-top: 2px;
     padding-left: 18px;
     margin-top: 10px;
     margin-bottom: 8px;
@@ -381,5 +382,5 @@
     margin-bottom: 20px;
 }
 .ahref{
-    color: rgb(173, 173, 173);
+    color: rgb(240, 240, 240);
 }
