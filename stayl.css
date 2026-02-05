@@ -1,12 +1,17 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 0; 
     box-sizing: border-box;
 }
 .header{
     width: 1520px;
     height: 5400px;
     background-color: white;
+}
+.header_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .header_box{
     width: 90%;
@@ -100,7 +105,7 @@
 }
 .h1_grid{
     margin-top: 55px;
-    font-size: 50px;
+    font-size: 48px;
     text-align: center;
 }
 .display_grid{
@@ -185,8 +190,8 @@
     background-repeat: no-repeat;
 }
 .collections_img2{
-    width: 1020px;
-    margin-left: 240px;
+    width: 800px;
+    margin-left: 320px;
 }
 .collections_h1{
     width: 634px;
