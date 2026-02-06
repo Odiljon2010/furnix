@@ -8,11 +8,6 @@
     height: 5400px;
     background-color: white;
 }
-.header_1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .header_box{
     width: 90%;
     height:40px;
