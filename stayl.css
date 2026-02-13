@@ -4,9 +4,12 @@
     box-sizing: border-box;
 }
 .header{
-    width: 1520px;
+    width: 13000px;
     height: 5400px;
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .header_box{
     width: 90%;
