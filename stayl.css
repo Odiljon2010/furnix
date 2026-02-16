@@ -4,17 +4,13 @@
     box-sizing: border-box;
 }
 .header{
-    width: 13000px;
+    width: 1521px;
     height: 5400px;
     background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 .header_box{
     width: 90%;
     height:40px;
-    margin-left: 50px;
     padding: 35px;
     display: flex;
     justify-content: space-evenly;
@@ -23,6 +19,9 @@
     width: 109px;
     height: 19px;
     margin-left: 630px;
+}
+.header_logo{
+    margin-left: 50px;
 }
 .header_box2{
     width:200px; 
@@ -64,6 +63,16 @@
     display: flex;
     border: 1px solid black;
     border-radius: 25px;
+}
+.sign_in{
+    width: 80px;
+    height: 31px;
+    margin-top: -3px;
+    margin-left: 8px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
 }
 .hero{
     width: 100%;
