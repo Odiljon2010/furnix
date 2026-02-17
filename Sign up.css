@@ -40,15 +40,18 @@ p{
     margin-top:-50px;
 }  
 button{
-    font-size: 25px;
+   
     width: 350px;
     height: 45px;
     margin-left: 20px;
     margin-top: 15px;
     border-radius: 10px;
     border: 2px solid white;
-    color: white;
     background-color: blue;
+}
+.Signup{
+    font-size: 22px;
+    color: white;
 }
 input{
     width: 350px;
