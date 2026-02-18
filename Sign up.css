@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;     
 }
-header{
+body{
     width: 100%;
     height:100vh;
-    background-color:black;
+    background: rgb(red, green, blue);
     display: flex;
     justify-content: center;
     align-items: center;
