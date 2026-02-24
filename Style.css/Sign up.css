@@ -14,11 +14,10 @@ body{
 }
 form{
     width: 400px;
-    height: 555px;
+    height: 545px;
     border: 5px solid white;
     border-radius: 40px;
-    background-color: white; 
-    
+    background-color: white;    
 }
 img{
     width: 135px;
@@ -40,8 +39,11 @@ p{
 .p1{
     padding-left: 35px;
     padding-right:35px ;
-    font-size: 22px;
-    color: rgb(36, 36, 36);
+    font-size: 20px;
+    color: rgb(36, 36, 36);    
+}
+.forgot{
+    text-decoration: none;
 }
 .p3{
     margin-top:-50px;
@@ -59,6 +61,7 @@ button{
 .Signup{
     font-size: 22px;
     color: white;
+    text-decoration: none;
 }
 input{
     width: 350px;
