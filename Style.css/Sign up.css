@@ -15,9 +15,10 @@ body{
 form{
     width: 400px;
     height: 545px;
-    border: 5px solid white;
+    border: 2px solid rgb(200, 200, 200);
     border-radius: 40px;
-    background-color: white;    
+    background:transparent;
+    backdrop-filter:blur(50px) ;    
 }
 img{
     width: 135px;
@@ -28,7 +29,7 @@ img{
 h3{
     margin-left: 25px;
     margin-top: 10px;
-    color: rgb(68, 68, 68);
+    color: rgb(30, 29, 29);
 }
 p{
     font-size: 30px;
@@ -40,10 +41,11 @@ p{
     padding-left: 35px;
     padding-right:35px ;
     font-size: 20px;
-    color: rgb(36, 36, 36);    
+    color: black;    
 }
 .forgot{
     text-decoration: none;
+    color: rgb(30, 29, 29);
 }
 .p3{
     margin-top:-50px;
@@ -55,7 +57,7 @@ button{
     margin-left: 20px;
     margin-top: 15px;
     border-radius: 10px;
-    border: 2px solid white;
+    border: 1px solid rgb(200, 200, 200);
     background-color: blue;
 }
 .Signup{
@@ -68,7 +70,7 @@ input{
     height: 45px;
     font-size: 20px;
     color: black;
-    border:1px solid black ;
+    border:1px solid gray;
     border-radius: 15px;
     padding-left: 15px;
     margin-left: 20px;
