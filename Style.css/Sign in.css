@@ -18,7 +18,7 @@ form{
     border: 2px solid rgb(200, 200, 200);
     border-radius: 40px;
     background:transparent; 
-    backdrop-filter:blur(60px) ;
+    backdrop-filter:blur(60px);
 }
 h3{
     margin-left: 25px;
@@ -76,8 +76,9 @@ input{
     width: 350px;
     height: 45px;
     font-size: 18px;
-    color: black;
-    border:1px solid gray ;
+    color: rgb(99, 99, 99);
+    background-color: white;
+    border:1px solid white ;
     border-radius: 15px;
     padding-left: 15px;
     margin-left: 20px;
