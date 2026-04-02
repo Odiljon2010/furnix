@@ -24,11 +24,13 @@ body{
     font-size:19px;
     margin-left: 25px;
     text-decoration: none;
+    text-align: center;
 } 
 .header_box3{
     padding:0, 10px;
     margin-top:4px;
     display: flex;
+    text-align: end;
 }
 .header_p{
     margin-left: 10px;
@@ -80,4 +82,5 @@ body{
    text-align: center;
    font-size: 26px;
    padding-top: 10px;
+   color: rgb(105, 105, 105);
 }
