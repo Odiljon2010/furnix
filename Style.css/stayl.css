@@ -135,9 +135,10 @@ a{
 .btn {
   cursor: pointer;
   font-weight: 700;
-  transition: all 0.2s;
-  padding-left: 12px;
+  transition: all 0.3s;
+  padding-left: 20px;
   border-radius: 50px;
+  color: black;
   background: white;
   border: 1px solid transparent;
   display: flex;
@@ -145,7 +146,7 @@ a{
   font-size: 13px;
 }
 .btn:hover {
-  background: rgb(255, 193, 77);
+  background: transparent;
 }
 .btn > svg {
   width: 43px;
@@ -159,7 +160,6 @@ a{
 .btn:active {
   transform: scale(0.95);
 }
-
 .section_img{
     width: 50%;
     height: 15px;
